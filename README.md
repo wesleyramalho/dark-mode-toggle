@@ -6,7 +6,7 @@ This simple application explores how you can use Styled Component's `ThemeProvid
 
 ### Local Setup
 
-1. Clone this repository with `git clone https://github.com/tsnolan23/dark-mode-toggle`
+1. Clone this repository with `git clone https://github.com/wesleyramalho/dark-mode-toggle`
 1. Change into the repo directory with `cd dark-mode-toggle`
 1. Install dependencies with `yarn install`
 1. Start up the app `yarn start`
